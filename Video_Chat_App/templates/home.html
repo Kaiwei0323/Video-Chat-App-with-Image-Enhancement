@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+    <meta charset="UTF-8">
+    <title>CMPE295 Home</title>
+</head>
+<body>
+    <div class="heading">
+        <h1 class="header">Video Chat App</h1>
+    </div>
+    <center>
+        <p>Enter Room Number</p>
+        <form id = "room_form" method = "POST">
+            <input type="text" name="room_id" id="room_id" class="form-control" placeholder="Enter Room ID">
+            <div class = "valid_room_id">
+                <input type="submit" value="Enter">
+            </div>
+        </form>
+    </center>
+</body>
+</html>>
