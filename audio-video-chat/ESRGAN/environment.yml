@@ -1,0 +1,11 @@
+name: real-esrgan
+dependencies:
+  - python==3.9
+  - pip
+  - pip:
+    - opencv-python
+    - torch
+    - torchvision
+    - torchaudio
+    - matplotlib
+    - git+https://github.com/sberbank-ai/Real-ESRGAN.git

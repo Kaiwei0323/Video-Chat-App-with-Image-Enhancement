@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6af66172-9dd9-45a5-8fef-03f4731f50e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/.idea/Video-Chat-App.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/static/chatroom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/static/chatroom_checkpoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/static/chatroom_networking.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/static/chatroom_ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/static/sjsu.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/templates/chatroom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/templates/chatroom_checkpoint.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Video-Chat-App/templates/home.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2VY6oo0fr8Lc08lwP4vw1Ux2E1U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/kaiwe/Desktop/Repo/Video-Chat-App-with-Image-Enhancement"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6af66172-9dd9-45a5-8fef-03f4731f50e9" name="Changes" comment="" />
+      <created>1695000843892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695000843892</updated>
+    </task>
+    <servers />
+  </component>
+</project>

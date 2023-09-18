@@ -1,0 +1,10 @@
+name: torchsr
+dependencies:
+  - python==3.9
+  - pip
+  - pip:
+    - opencv-python
+    - torch
+    - torchvision
+    - torchaudio
+    - torchsr
