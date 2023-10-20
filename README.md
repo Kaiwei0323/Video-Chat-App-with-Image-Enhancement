@@ -1,27 +1,21 @@
 # Video-Chat-App
----
-## Technology
-> Python
+Implement super-resolution algorithm to achieve real-time streaming data resolutioin recovery
 
+## Prerequisites
+```
+  Python 3.7
+  Tensorflow 2.10.0
+  PyTorch
+  OpenCV 4.7.0.72
+  Flask
+  
+```
 
-> Flask
-
-
-> Tensorflow
-
-
-> PyTorch
 ## Model
-> ESCPN
-
-
-> ESRGAN
-
-
-> PyTorch-Rcan
-
-
-> PyTorch-SRResNet
-
-
-> SRRENET
+```
+  ESCPN
+  ESRGAN
+  PyTorch-Rcan
+  PyTorch-SRResNet
+  SRRENET
+```
